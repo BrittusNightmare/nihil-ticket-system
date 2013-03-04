@@ -2,7 +2,7 @@ nihil-ticket-system
 ===================
 
 By:
-* Bryce asdf
+* Bryce Benn
 * Kalev Kalda Sikes
 * Ridhwaan Shakeeld
 * Wes Unwin

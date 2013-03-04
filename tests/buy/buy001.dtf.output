@@ -1,6 +1,2 @@
-LOGIN admin          
-04 Grand-Event         seller          099 100.00
-admin           AA 000900.00 (loss)
-seller          TT 001100.00 (gain)
-Grand-Event         seller         098 100.00(loss)
-00                    000000.00
+04 Grand-Events        seller        003 100.00
+05 admin           seller          000100.00
